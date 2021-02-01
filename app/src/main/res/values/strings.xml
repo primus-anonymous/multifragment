@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi Fragment</string>
+    <string name="random_code">Случайный код</string>
+    <string name="sos">SOS</string>
+    <string name="dialog_sos_title">Прошу о помощи</string>
+    <string name="dialog_cancel">Отмена</string>
+</resources>
